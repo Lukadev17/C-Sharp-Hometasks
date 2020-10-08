@@ -1,0 +1,13 @@
+D:\C#\HomeTask\homeTask_1\bin\Debug\netcoreapp3.1\homeTask_1.exe
+D:\C#\HomeTask\homeTask_1\bin\Debug\netcoreapp3.1\homeTask_1.deps.json
+D:\C#\HomeTask\homeTask_1\bin\Debug\netcoreapp3.1\homeTask_1.runtimeconfig.json
+D:\C#\HomeTask\homeTask_1\bin\Debug\netcoreapp3.1\homeTask_1.runtimeconfig.dev.json
+D:\C#\HomeTask\homeTask_1\bin\Debug\netcoreapp3.1\homeTask_1.dll
+D:\C#\HomeTask\homeTask_1\bin\Debug\netcoreapp3.1\homeTask_1.pdb
+D:\C#\HomeTask\homeTask_1\obj\Debug\netcoreapp3.1\homeTask_1.csprojAssemblyReference.cache
+D:\C#\HomeTask\homeTask_1\obj\Debug\netcoreapp3.1\homeTask_1.AssemblyInfoInputs.cache
+D:\C#\HomeTask\homeTask_1\obj\Debug\netcoreapp3.1\homeTask_1.AssemblyInfo.cs
+D:\C#\HomeTask\homeTask_1\obj\Debug\netcoreapp3.1\homeTask_1.csproj.CoreCompileInputs.cache
+D:\C#\HomeTask\homeTask_1\obj\Debug\netcoreapp3.1\homeTask_1.dll
+D:\C#\HomeTask\homeTask_1\obj\Debug\netcoreapp3.1\homeTask_1.pdb
+D:\C#\HomeTask\homeTask_1\obj\Debug\netcoreapp3.1\homeTask_1.genruntimeconfig.cache
